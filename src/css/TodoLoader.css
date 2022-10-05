@@ -1,0 +1,8 @@
+.todoLoader{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+   }
+   .imgLoader{
+    border-radius: 15px;
+   }
